@@ -1,6 +1,6 @@
 <?php 
 
-class Database {
+class DatabaseUtility {
     static private $pdo;
     static public $operators = ['=', '<>', 'and', 'or', 'like'];
     private $table;
@@ -30,11 +30,11 @@ class Database {
 }
 
 header('Content-Type: text/plain', true);
-var_dump(Database::$operators);
-Database::connect('pdo')->table('users')->insert(['name' => 'John Doe']);
-Database::create([]);
+var_dump(DatabaseUtility::$operators);
+DatabaseUtility::connect('pdo')->table('users')->insert(['name' => 'John Doe']);
+DatabaseUtility::create([]);
 
-$db = new Database;
+$db = new DatabaseUtility;
 var_dump($db->getMethod());
 
 ?>
