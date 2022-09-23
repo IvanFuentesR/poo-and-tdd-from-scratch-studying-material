@@ -1,0 +1,17 @@
+{
+    "name": "oop_study/course",
+    "description": "A package for studying OOP in PHP",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src2"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ivan Fuentes",
+            "email": "consultant-ifuentes@remine.com"
+        }
+    ],
+    "require": {}
+}
