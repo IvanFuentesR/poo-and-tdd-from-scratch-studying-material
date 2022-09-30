@@ -1,0 +1,28 @@
+2019-06-01 10:59:45 - Level: info - Message: new bug report created - Context: {"id":1,"type":"Audio"}
+2019-06-01 10:59:45 - Level: info - Message: bug report updated - Context: {"id":1,"type":"Audio"}
+2019-06-01 11:03:23 - Level: info - Message: new bug report created - Context: {"id":1,"type":"Audio"}
+2019-06-01 11:03:23 - Level: info - Message: bug report updated - Context: {"id":1,"type":"Audio"}
+2019-06-01 11:03:23 - Level: info - Message: bug report deleted - Context: {"id":1,"type":"Audio"}
+2019-06-01 11:05:39 - Level: info - Message: new bug report created - Context: {"id":2,"type":"Audio"}
+2019-06-01 11:05:39 - Level: info - Message: bug report updated - Context: {"id":2,"type":"Audio"}
+2019-06-01 11:05:39 - Level: info - Message: bug report deleted - Context: {"id":2,"type":"Audio"}
+2019-06-01 11:05:57 - Level: info - Message: new bug report created - Context: {"id":3,"type":"Audio"}
+2019-06-01 11:05:57 - Level: info - Message: bug report updated - Context: {"id":3,"type":"Audio"}
+2019-06-01 11:05:57 - Level: info - Message: bug report deleted - Context: {"id":3,"type":"Audio"}
+2019-06-01 11:36:58 - Level: info - Message: new bug report created - Context: {"id":4,"type":"video player"}
+2019-06-01 11:37:36 - Level: info - Message: new bug report created - Context: {"id":5,"type":"audio"}
+2019-06-01 11:38:05 - Level: info - Message: bug report updated - Context: {"id":4,"type":"video player"}
+2019-06-01 11:38:42 - Level: info - Message: new bug report created - Context: {"id":6,"type":"others"}
+2019-06-01 11:38:48 - Level: info - Message: bug report deleted - Context: {"id":4,"type":"video player"}
+2019-06-01 11:39:12 - Level: info - Message: bug report deleted - Context: {"id":5,"type":"audio"}
+2019-06-01 11:41:37 - Level: info - Message: new bug report created - Context: {"id":7,"type":"video player"}
+2019-06-01 11:51:09 - Level: info - Message: new bug report created - Context: {"id":1,"type":"video player"}
+2019-06-01 11:51:35 - Level: info - Message: new bug report created - Context: {"id":2,"type":"audio"}
+2019-06-01 11:52:04 - Level: info - Message: new bug report created - Context: {"id":3,"type":"others"}
+2019-06-01 11:52:27 - Level: info - Message: bug report updated - Context: {"id":1,"type":"video player"}
+2019-06-01 11:53:11 - Level: info - Message: bug report deleted - Context: {"id":3,"type":"others"}
+2019-06-01 12:08:49 - Level: info - Message: new bug report created - Context: {"id":4,"type":"Audio"}
+2019-06-01 12:08:49 - Level: info - Message: bug report updated - Context: {"id":4,"type":"Audio"}
+2019-06-01 12:08:49 - Level: info - Message: bug report deleted - Context: {"id":4,"type":"Audio"}
+2019-06-01 15:36:46 - Level: info - Message: bug report updated - Context: {"id":2,"type":"audio"}
+2019-06-01 15:37:00 - Level: info - Message: bug report updated - Context: {"id":2,"type":"audio"}
